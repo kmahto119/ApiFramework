@@ -1,6 +1,5 @@
 package com.api.rootLib;
 
-import java.awt.Event;
 import java.util.Date;
 
 import com.aventstack.extentreports.ExtentReports;

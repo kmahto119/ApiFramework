@@ -79,6 +79,7 @@ public class ApiConfig {
 		}
 
 
+	@SuppressWarnings("unchecked")
 	private String createJSONObject(String data) 
 	{
 		JSONObject jObj=new JSONObject();
